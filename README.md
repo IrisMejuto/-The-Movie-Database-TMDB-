@@ -2,7 +2,7 @@
 This Power BI project, crafted for the Onyx Data 14, delves into the analysis of films, production team and main KPI'S. #PowerBI
 
 <div align="center">
-<img src="https://github.com/IrisMejuto/-The-Movie-Database-TMDB-/blob/main/Cover.jpg" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/-The-Movie-Database-TMDB-/blob/main/Images/Cover.jpg" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
