@@ -2,7 +2,7 @@
 This Power BI project, crafted for the Onyx Data 14, delves into the analysis of films, production team and main KPI'S. #PowerBI
 
 <div align="center">
-<img src="https://github.com/IrisMejuto/-The-Movie-Database-TMDB-/blob/main/Images/Cover.jpg" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
@@ -23,7 +23,7 @@ Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, expl
 
 The data modeling stage involved creating a relational data model that reflects the relationships between .
 The data modeling stage involved the creation of a relational data model that reflects the relationships between movies, location, genre, languages, cast and all production team.
-![image](![image](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG)
+![image](![image](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Model.png)
 
 
 
