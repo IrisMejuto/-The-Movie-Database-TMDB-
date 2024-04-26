@@ -22,8 +22,8 @@ Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, expl
 ## 🖇️ Model:
 
 The data modeling stage involved creating a relational data model that reflects the relationships between .
-The data modeling stage involved the creation of a relational data model that reflects the relationships between
-![image](![image](https://github.com/IrisMejuto/-The-Movie-Database-TMDB-/blob/main/Images/Model.png)
+The data modeling stage involved the creation of a relational data model that reflects the relationships between movies, location, genre, languages, cast and all production team.
+![image](![image](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG)
 
 
 
