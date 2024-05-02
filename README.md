@@ -6,7 +6,7 @@ This Power BI project was one of the top 5 best reports of the challenge crafted
 </div>
 
 ## 📊 Dashboard
-You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUyODlkZDAtMmZhNS00NWE3LTk2NjYtNzNmZTgwNThlMGNjIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
+You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/dcfdc96da3045184d6044ff000ae8c8a?challenge=onyx-data-april-2024)
 
 ## 🪟 Overview:
 
