@@ -1,5 +1,5 @@
 # The-Movie-Database-TMDB
-This Power BI project was one of the top 5 best reports of the challenge crafted for the Onyx Data 14, delves into the analysis of films, production team and main KPI'S. #PowerBI
+This Power BI project was one of the top 5 best reports of the challenge crafted for the Onyx Data Challenge 14, delves into the analysis of films, production team and main KPI'S. #PowerBI
 
 <div align="center">
 <img src="https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG" alt="Logo" width="800" height="500">
